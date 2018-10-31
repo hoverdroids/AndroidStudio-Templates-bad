@@ -1,0 +1,201 @@
+[submodule "activities/common"]
+	path = activities/common
+	url = https://github.com/hoverdroids/common-activities.git
+[submodule "activities/AndroidThingsActivity"]
+	path = activities/AndroidThingsActivity
+	url = https://github.com/hoverdroids/AndroidThingsActivity.git
+[submodule "activities/AndroidThingsPeripheralActivity"]
+	path = activities/AndroidThingsPeripheralActivity
+	url = https://github.com/hoverdroids/AndroidThingsPeripheralActivity.git
+[submodule "activities/AndroidTVActivity"]
+	path = activities/AndroidTVActivity
+	url = https://github.com/hoverdroids/AndroidTVActivity.git
+[submodule "activities/BasicActivity"]
+	path = activities/BasicActivity
+	url = https://github.com/hoverdroids/BasicActivity.git
+[submodule "activities/BlankWearActivity"]
+	path = activities/BlankWearActivity
+	url = https://github.com/hoverdroids/BlankWearActivity.git
+[submodule "activities/BottomNavigationActivity"]
+	path = activities/BottomNavigationActivity
+	url = https://github.com/hoverdroids/BottomNavigationActivity.git
+[submodule "activities/EmptyActivity"]
+	path = activities/EmptyActivity
+	url = https://github.com/hoverdroids/EmptyActivity.git
+[submodule "activities/FullscreenActivity"]
+	path = activities/FullscreenActivity
+	url = https://github.com/hoverdroids/FullscreenActivity.git
+[submodule "activities/GoogleAdMobAdsActivity"]
+	path = activities/GoogleAdMobAdsActivity
+	url = https://github.com/hoverdroids/GoogleAdMobAdsActivity.git
+[submodule "activities/GoogleMapsActivity"]
+	path = activities/GoogleMapsActivity
+	url = https://github.com/hoverdroids/GoogleMapsActivity.git
+[submodule "activities/GoogleMapsWearActivity"]
+	path = activities/GoogleMapsWearActivity
+	url = https://github.com/hoverdroids/GoogleMapsWearActivity.git
+[submodule "activities/LoginActivity"]
+	path = activities/LoginActivity
+	url = https://github.com/hoverdroids/LoginActivity.git
+[submodule "activities/MasterDetailFlow"]
+	path = activities/MasterDetailFlow
+	url = https://github.com/hoverdroids/MasterDetailFlow.git
+[submodule "activities/NavigationDrawerActivity"]
+	path = activities/NavigationDrawerActivity
+	url = https://github.com/hoverdroids/NavigationDrawerActivity.git
+[submodule "activities/ScrollActivity"]
+	path = activities/ScrollActivity
+	url = https://github.com/hoverdroids/ScrollActivity.git
+[submodule "activities/SettingsActivity"]
+	path = activities/SettingsActivity
+	url = https://github.com/hoverdroids/SettingsActivity.git
+[submodule "activities/TabbedActivity"]
+	path = activities/TabbedActivity
+	url = https://github.com/hoverdroids/TabbedActivity.git
+[submodule "activities/ViewModelActivity"]
+	path = activities/ViewModelActivity
+	url = https://github.com/hoverdroids/ViewModelActivity.git
+[submodule "gradle/wrapper"]
+	path = gradle/wrapper
+	url = https://github.com/hoverdroids/wrapper.git
+[submodule "gradle-projects/AndroidWearModule"]
+	path = gradle-projects/AndroidWearModule
+	url = https://github.com/hoverdroids/AndroidWearModule.git
+[submodule "gradle-projects/common"]
+	path = gradle-projects/common
+	url = https://github.com/hoverdroids/common-gradle-projects.git
+[submodule "gradle-projects/ImportGradleProject"]
+	path = gradle-projects/ImportGradleProject
+	url = https://github.com/hoverdroids/ImportGradleProject.git
+[submodule "gradle-projects/NewAndroidAutoModule"]
+	path = gradle-projects/NewAndroidAutoModule
+	url = https://github.com/hoverdroids/NewAndroidAutoModule.git
+[submodule "gradle-projects/ImportEclipseProject"]
+	path = gradle-projects/ImportEclipseProject
+	url = https://github.com/hoverdroids/ImportEclipseProject.git
+[submodule "gradle-projects/NewAndroidModule"]
+	path = gradle-projects/NewAndroidModule
+	url = https://github.com/hoverdroids/NewAndroidModule.git
+[submodule "gradle-projects/NewAndroidProject"]
+	path = gradle-projects/NewAndroidProject
+	url = https://github.com/hoverdroids/NewAndroidProject.git
+[submodule "gradle-projects/NewAndroidThingsModule"]
+	path = gradle-projects/NewAndroidThingsModule
+	url = https://github.com/hoverdroids/NewAndroidThingsModule.git
+[submodule "gradle-projects/NewAndroidTVModule"]
+	path = gradle-projects/NewAndroidTVModule
+	url = https://github.com/hoverdroids/NewAndroidTVModule.git
+[submodule "gradle-projects/NewDynamicFeatureModule"]
+	path = gradle-projects/NewDynamicFeatureModule
+	url = https://github.com/hoverdroids/NewDynamicFeatureModule.git
+[submodule "gradle-projects/NewGlassModule"]
+	path = gradle-projects/NewGlassModule
+	url = https://github.com/hoverdroids/NewGlassModule.git
+[submodule "gradle-projects/NewInstantAppModule"]
+	path = gradle-projects/NewInstantAppModule
+	url = https://github.com/hoverdroids/NewInstantAppModule.git
+[submodule "gradle-projects/NewInstantFeatureModule"]
+	path = gradle-projects/NewInstantFeatureModule
+	url = https://github.com/hoverdroids/NewInstantFeatureModule.git
+[submodule "gradle-projects/NewJavaLibrary"]
+	path = gradle-projects/NewJavaLibrary
+	url = https://github.com/hoverdroids/NewJavaLibrary.git
+[submodule "other/AidlFile"]
+	path = other/AidlFile
+	url = https://github.com/hoverdroids/AidlFile.git
+[submodule "other/AidlFolder"]
+	path = other/AidlFolder
+	url = https://github.com/hoverdroids/AidlFolder.git
+[submodule "other/AndroidAutoMediaService"]
+	path = other/AndroidAutoMediaService
+	url = https://github.com/hoverdroids/AndroidAutoMediaService.git
+[submodule "other/AndroidAutoMessagingService"]
+	path = other/AndroidAutoMessagingService
+	url = https://github.com/hoverdroids/AndroidAutoMessagingService.git
+[submodule "other/AndroidManifest"]
+	path = other/AndroidManifest
+	url = https://github.com/hoverdroids/AndroidManifest.git
+[submodule "other/AppActionsResourceFile"]
+	path = other/AppActionsResourceFile
+	url = https://github.com/hoverdroids/AppActionsResourceFile.git
+[submodule "other/AppWidget"]
+	path = other/AppWidget
+	url = https://github.com/hoverdroids/AppWidget.git
+[submodule "other/AssetsFolder"]
+	path = other/AssetsFolder
+	url = https://github.com/hoverdroids/AssetsFolder.git
+[submodule "other/BlankFragment"]
+	path = other/BlankFragment
+	url = https://github.com/hoverdroids/BlankFragment.git
+[submodule "other/BroadcastReceiver"]
+	path = other/BroadcastReceiver
+	url = https://github.com/hoverdroids/BroadcastReceiver.git
+[submodule "other/common"]
+	path = other/common
+	url = https://github.com/hoverdroids/common-other.git
+[submodule "other/ContentProvider"]
+	path = other/ContentProvider
+	url = https://github.com/hoverdroids/ContentProvider.git
+[submodule "other/CustomView"]
+	path = other/CustomView
+	url = https://github.com/hoverdroids/CustomView.git
+[submodule "other/Daydream"]
+	path = other/Daydream
+	url = https://github.com/hoverdroids/Daydream.git
+[submodule "other/FontFolder"]
+	path = other/FontFolder
+	url = https://github.com/hoverdroids/FontFolder.git
+[submodule "other/IntentService"]
+	path = other/IntentService
+	url = https://github.com/hoverdroids/IntentService.git
+[submodule "other/JavaFolder"]
+	path = other/JavaFolder
+	url = https://github.com/hoverdroids/JavaFolder.git
+[submodule "other/JniFolder"]
+	path = other/JniFolder
+	url = https://github.com/hoverdroids/JniFolder.git
+[submodule "other/LayoutResourceFile"]
+	path = other/LayoutResourceFile
+	url = https://github.com/hoverdroids/LayoutResourceFile.git
+[submodule "other/ListFragment"]
+	path = other/ListFragment
+	url = https://github.com/hoverdroids/ListFragment.git
+[submodule "other/ModalBottomSheet"]
+	path = other/ModalBottomSheet
+	url = https://github.com/hoverdroids/ModalBottomSheet.git
+[submodule "other/Notification"]
+	path = other/Notification
+	url = https://github.com/hoverdroids/Notification.git
+[submodule "other/PlusOneFragment"]
+	path = other/PlusOneFragment
+	url = https://github.com/hoverdroids/PlusOneFragment.git
+[submodule "other/RawFolder"]
+	path = other/RawFolder
+	url = https://github.com/hoverdroids/RawFolder.git
+[submodule "other/ResFolder"]
+	path = other/ResFolder
+	url = https://github.com/hoverdroids/ResFolder.git
+[submodule "other/ResourcesFolder"]
+	path = other/ResourcesFolder
+	url = https://github.com/hoverdroids/ResourcesFolder.git
+[submodule "other/RsFolder"]
+	path = other/RsFolder
+	url = https://github.com/hoverdroids/RsFolder.git
+[submodule "other/Service"]
+	path = other/Service
+	url = https://github.com/hoverdroids/Service.git
+[submodule "other/SliceProvider"]
+	path = other/SliceProvider
+	url = https://github.com/hoverdroids/SliceProvider.git
+[submodule "other/ValueResourceFile"]
+	path = other/ValueResourceFile
+	url = https://github.com/hoverdroids/ValueResourceFile.git
+[submodule "other/ViewModelFragment"]
+	path = other/ViewModelFragment
+	url = https://github.com/hoverdroids/ViewModelFragment.git
+[submodule "other/WatchFaceService"]
+	path = other/WatchFaceService
+	url = https://github.com/hoverdroids/WatchFaceService.git
+[submodule "other/XmlFolder"]
+	path = other/XmlFolder
+	url = https://github.com/hoverdroids/XmlFolder.git
